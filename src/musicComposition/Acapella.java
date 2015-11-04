@@ -1,5 +1,11 @@
 package musicComposition;
 
+/**
+ * 
+ * @author Den
+ *
+ */
+
 public class Acapella extends Vocal {
 
 	private Genre genre;
